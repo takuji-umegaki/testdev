@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>フォローアップ ミーティング</description>
+    <encodingKey>ISO-2022-JP</encodingKey>
+    <name>取引先担当者: フォローアップ (サンプル)</name>
+    <style>none</style>
+    <subject>本日はありがとうございました</subject>
+    <type>text</type>
+</EmailTemplate>

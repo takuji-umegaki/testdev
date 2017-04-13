@@ -1,0 +1,11 @@
+{!Account.Name} 
+{!Contact.LastName}{!Contact.FirstName}様 
+
+本日はお打ち合わせ頂きありがとうございました。 
+
+本日の内容を踏まえまして、次回ご提案させて頂きたいと存じます。 
+つきましてはご都合の宜しい日時をご連絡頂けますでしょうか。 
+
+宜しくお願いいたします。 
+
+{!Organization.Name} {!User.LastName}{!User.FirstName}

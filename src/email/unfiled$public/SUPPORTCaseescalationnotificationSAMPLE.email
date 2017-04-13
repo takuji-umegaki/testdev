@@ -1,0 +1,9 @@
+*** ケースのエスカレーション通知 *** 
+
+下記ケースがエスカレーションされました。 
+取引先名: {!Account.Name} 
+ケース: {!Case.CaseNumber}: {!Case.Subject} 
+ケース所有者: {!Case.OwnerFullName} 
+
+ケースを参照するには以下のリンクをクリックしてください：
+{!Case.Link}

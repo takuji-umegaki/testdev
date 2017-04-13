@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>オンラインリード登録時用の通知メールテンプレート</description>
+    <encodingKey>ISO-2022-JP</encodingKey>
+    <name>リード:  Web-to-リード レスポンスメール（サンプル)</name>
+    <style>none</style>
+    <subject>{!Organization.Name}：  ご登録ありがとうございました</subject>
+    <type>text</type>
+</EmailTemplate>

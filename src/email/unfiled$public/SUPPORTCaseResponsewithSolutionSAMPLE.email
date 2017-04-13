@@ -1,0 +1,14 @@
+{!Contact.FirstName}様 
+
+お問合せの件に関してご回答申し上げます。 
+{!Case.Description} 
+
+下記がご回答内容です。 
+{!Case.Solution_Description} 
+
+宜しくお願いいたします。 
+{!User.Name} 
+{!Organization.Name} 
+
+
+{!Case.Solution_Attachments}

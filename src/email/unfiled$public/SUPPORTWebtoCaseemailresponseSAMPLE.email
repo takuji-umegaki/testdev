@@ -1,0 +1,8 @@
+{!Case.SuppliedName}様   
+
+お問合せ頂きありがとうございます。
+ケース番号 {!Case.CaseNumber}: "{!Case.Subject}" が作成されました。
+弊社担当より後日ご連絡させて頂きます。
+
+{!Organization.Name}
+サポートチーム
